@@ -11,7 +11,7 @@ switch (operador) {
   case '+':
     console.log(n1 + n2);
   case '-':
-    console.log(n1 + n2);
+    console.log(n1 - n2);
   case '*':
     console.log(n1 * n2);
   case '/':
