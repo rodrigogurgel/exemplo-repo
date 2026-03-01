@@ -1,4 +1,5 @@
 // index.js
+// node index.js 2 * 0 
 const [, , operador, a, b] = process.argv;
 
 const n1 = Number(a);
